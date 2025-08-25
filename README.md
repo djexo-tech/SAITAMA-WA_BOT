@@ -9,7 +9,7 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 </div> 
 
 <div align="center"> 
-  <a href="https://youtube.com/@mr_unique_hacker"> 
+  <a href=""> 
     <img src="https://github.com/djexo-tech/SAITAMA-WA_BOT/blob/main/assets/bot_image.jpg" alt="hunter xmd" height="300"> 
   </a> 
 </div>
